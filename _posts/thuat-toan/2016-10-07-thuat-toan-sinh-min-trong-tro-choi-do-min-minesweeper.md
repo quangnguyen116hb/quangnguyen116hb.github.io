@@ -5,7 +5,7 @@ date:   2016-10-07
 categories: [Thuật toán]
 tags: [Dò mìn, sinh, ngẫu nhiên]
 permalink: /thuat-toan/thuat-giai-sinh-min-trong-tro-choi-do-min-minesweeper/
-bigimg: "{{ site.url }}{{ site.baseurl }}/assets/img/thuat-toan/sinh-min-minesweeper/minesweeper-terminal.png"
+bigimg: "https://vietanhdev.com/assets/img/assets/img/thuat-toan/sinh-min-minesweeper/minesweeper-terminal.png"
 ---
 
 Gần đây, Việt Anh mới viết lại trò chơi dò mìn cổ điển bằng ngôn ngữ C. Trò chơi này có thể thực hiện với những thuật toán đơn giản. Bài viết này sẽ nói về thuật toán khởi tạo mìn mỗi lúc bắt đầu trò chơi.

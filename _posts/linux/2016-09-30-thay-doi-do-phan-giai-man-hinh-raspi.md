@@ -5,8 +5,8 @@ date:   2016-09-30
 categories: [Linux]
 tags: [Raspberry Pi, Raspbian]
 permalink: /blog/thay-doi-do-phan-giai-man-hinh-raspi/
-bigimg: "{{ site.url }}{{ site.baseurl }}/assets/img/linux/raspi-resolution/raspi-resolution.png"
-share-img: "https://vietanhdev.com{{ site.url }}{{ site.baseurl }}/assets/img/linux/raspi-resolution/raspi-resolution.png"
+bigimg: "https://vietanhdev.com/assets/img/linux/raspi-resolution/raspi-resolution.png"
+share-img: "https://vietanhdev.com/assets/img/linux/raspi-resolution/raspi-resolution.png"
 ---
 
 ## Vấn đề
