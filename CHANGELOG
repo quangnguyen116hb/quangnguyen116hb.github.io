@@ -1,1 +1,3 @@
 - Add custom script > _includes/scripts.html
+- Add custom stylesheet > _includes/stylesheets.html
+- Change _includes/page_hero.html : use page.pagelead = true if you want to show page lead
