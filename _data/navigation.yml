@@ -6,5 +6,5 @@ main:
     url: "/posts/"
   - title: "My Projects"
     url: "/projects/"
-  - title: "Sitemap"
-    url: "/Sitemap.xml"
+  - title: "Contact"
+    url: "/contact/"
