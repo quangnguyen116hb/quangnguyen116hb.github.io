@@ -20,7 +20,7 @@ includes:
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : "disqus", "facebook" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  provider               : ["disqus", "facebook"] # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
     shortname            : "vietanhdev" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
