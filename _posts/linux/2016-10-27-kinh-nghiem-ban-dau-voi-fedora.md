@@ -6,7 +6,7 @@ categories: [Linux]
 tags: [Fedora, Kinh nghiệm sử dụng]
 permalink: /linux/kinh-nghiem-ban-dau-su-dung-fedora/
 header:
-  image: "https://vietanhdev.com/assets/img/linux/fedora-linux/fedora-desktop.png"
+  overlay_image: "/assets/img/linux/fedora-linux/fedora-desktop.png"
 og_image: "https://vietanhdev.com/assets/img/linux/fedora-linux/fedora-desktop.png"
 ---
 

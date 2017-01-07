@@ -6,7 +6,7 @@ categories: [Linux]
 tags: [Raspberry Pi, Raspbian]
 permalink: /blog/thay-doi-do-phan-giai-man-hinh-raspi/
 header:
-  image: "https://vietanhdev.com/assets/img/linux/raspi-resolution/raspi-resolution.png"
+  overlay_image: "/assets/img/linux/raspi-resolution/raspi-resolution.png"
 og_image: "https://vietanhdev.com/assets/img/linux/raspi-resolution/raspi-resolution.png"
 ---
 

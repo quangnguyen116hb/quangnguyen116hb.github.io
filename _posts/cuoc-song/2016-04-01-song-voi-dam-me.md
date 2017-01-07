@@ -5,7 +5,7 @@ date:   2016-04-01
 categories: [Cuộc sống]
 tags: [Đam mê]
 header:
-  image: "/assets/img/cuoc-song/passion.jpg"
+  overlay_image: "/assets/img/cuoc-song/passion.jpg"
 permalink: /cuoc-song/song-voi-dam-me/
 ---
 

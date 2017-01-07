@@ -6,7 +6,7 @@ categories: [Thuật toán]
 tags: [Dò mìn, loang]
 permalink: /thuat-toan/thuat-toan-loang-trong-do-min/
 header:
-  image: "https://vietanhdev.com/assets/img/thuat-toan/loang-do-min/mat-nuoc-loang.jpg"
+  overlay_image: "/assets/img/thuat-toan/loang-do-min/mat-nuoc-loang.jpg"
 ---
 
 ### Thuật toán loang

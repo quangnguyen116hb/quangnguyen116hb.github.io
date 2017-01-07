@@ -7,7 +7,7 @@ categories: [Jekyll]
 tags: [Jekyll, website]
 permalink: /blogging/kinh-nghiem-tao-webiste-ca-nhan-voi-jekyll-lv2/
 header:
-  image: "/assets/img/blogging/jekyll/jekyllhomepage.png"
+  overlay_image: "/assets/img/blogging/jekyll/jekyllhomepage.png"
 og_image: "https://vietanhdev.com/assets/img/assets/img/blogging/jekyll/vietanhdevdotcom20160916.png"
 ---
 
