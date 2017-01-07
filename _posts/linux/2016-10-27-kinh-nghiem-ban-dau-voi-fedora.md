@@ -5,8 +5,9 @@ date:   2016-10-27
 categories: [Linux]
 tags: [Fedora, Kinh nghiệm sử dụng]
 permalink: /linux/kinh-nghiem-ban-dau-su-dung-fedora/
-bigimg: "https://vietanhdev.com/assets/img/linux/fedora-linux/fedora-desktop.png"
-share-img: "https://vietanhdev.com/assets/img/linux/fedora-linux/fedora-desktop.png"
+header:
+  image: "https://vietanhdev.com/assets/img/linux/fedora-linux/fedora-desktop.png"
+og_image: "https://vietanhdev.com/assets/img/linux/fedora-linux/fedora-desktop.png"
 ---
 
 ## Giới thiệu Fedora Linux

@@ -6,8 +6,9 @@ date:   2016-09-26
 categories: [Jekyll]
 tags: [Jekyll, website]
 permalink: /blogging/kinh-nghiem-tao-webiste-ca-nhan-voi-jekyll-lv2/
-bigimg: "{{ site.url }}{{ site.baseurl }}/assets/img/blogging/jekyll/jekyllhomepage.png"
-share-img: "https://vietanhdev.com/assets/img/assets/img/blogging/jekyll/vietanhdevdotcom20160916.png"
+header:
+  image: "/assets/img/blogging/jekyll/jekyllhomepage.png"
+og_image: "https://vietanhdev.com/assets/img/assets/img/blogging/jekyll/vietanhdevdotcom20160916.png"
 ---
 
 ![Website VietAnhDev.com sau khi chuyển sang Jekyll]({{ site.url }}{{ site.baseurl }}/assets/img/blogging/jekyll/vietanhdevdotcom20160916.png)

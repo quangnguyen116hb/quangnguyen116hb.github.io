@@ -4,7 +4,8 @@ title:  "Sống với đam mê hoặc một cuộc đời nhàm chán"
 date:   2016-04-01
 categories: [Cuộc sống]
 tags: [Đam mê]
-bigimg: "/assets/img/cuoc-song/passion.jpg"
+header:
+  image: "/assets/img/cuoc-song/passion.jpg"
 permalink: /cuoc-song/song-voi-dam-me/
 ---
 

@@ -6,8 +6,9 @@ date:   2016-09-16
 categories: [Jekyll]
 tags: [Jekyll, website]
 permalink: /blogging/kinh-nghiem-tao-webiste-ca-nhan-voi-jekyll/
-bigimg: "https://vietanhdev.com/assets/img/blogging/jekyll/jekyllhomepage.png"
-share-img: "https://vietanhdev.com/assets/img/blogging/jekyll/vietanhdevdotcom20160916.png"
+header:
+  image: "https://vietanhdev.com/assets/img/blogging/jekyll/jekyllhomepage.png"
+og_image: "https://vietanhdev.com/assets/img/blogging/jekyll/vietanhdevdotcom20160916.png"
 ---
 
 
