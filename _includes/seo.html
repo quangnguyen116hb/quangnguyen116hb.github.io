@@ -47,7 +47,9 @@
   <meta property="og:url" content="{{ page.url | prepend: seo_url | replace: "/index.html", "/" }}">
 {% endif %}
 
-<meta name="og:description" content="{{ seo_description }}">
+{% if seo_description %}
+  <meta property="og:description" content="{{ seo_description }}">
+{% endif %}
 
 {% if site.twitter.username %}
   <meta name="twitter:site" content="@{{ site.twitter.username | replace: "@", "" }}">
@@ -72,6 +74,7 @@
   {% endif %}
 {% endif %}
 
+{% if site.facebook %}
 
   {% if site.facebook.app_id %}
     <meta property="fb:app_id" content="{{ site.facebook.app_id }}">
