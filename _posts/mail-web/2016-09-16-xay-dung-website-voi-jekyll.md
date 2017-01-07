@@ -12,7 +12,7 @@ og_image: "https://vietanhdev.com/assets/img/blogging/jekyll/vietanhdevdotcom201
 ---
 
 
-![Website VietAnhDev.com sau khi chuyển sang Jekyll](/files/blogging/jekyll/vietanhdevdotcom20160916.png)
+![Website VietAnhDev.com sau khi chuyển sang Jekyll](/assets/img/blogging/jekyll/vietanhdevdotcom20160916.png)
 
 *Hình ảnh Website VietAnhDev.com sau khi chuyển sang Jekyll*
 
@@ -24,17 +24,17 @@ Trước đây vài ngày, tôi có chuyển hẳn website từ [CMS Wordpress](
 
 ### Trước hết, một số định nghĩa cho bạn nào chưa biết:
 
-![WordPress](/files/blogging/jekyll/wordpress.png)
+![WordPress](/assets/img/blogging/jekyll/wordpress.png)
 
 * **CMS WordPress** là một trong những hệ quản trị nội dung phổ biến nhất giúp bạn có thể dễ dàng tạo các website của mình với hàng loạt các tùy biến về giao diện, tối ưu cho SEO. Bạn có thể làm rất nhiều việc với WordPress từ viết blog, làm website bán hàng, forum...vv. Rất nhiều website lớn nhỏ khác nhau đang sử dụng WordPress. CMS này được viết trên ngôn ngữ PHP và website nó tạo ra là các web động với nhiều tương tác người dùng nhé.
 
-![Jekyll](/files/blogging/jekyll/jekyll.png)
+![Jekyll](/assets/img/blogging/jekyll/jekyll.png)
 
 * **Jekyll** lại là một thứ hoàn toàn khác. Nó là một phần mềm được viết trên Ruby giúp tạo ra các website tĩnh. Nó không có nhiều khả năng như WordPress, hơi khó sử dụng với người mới nhưng với việc tạo các website cá nhân, blog, trang tài liệu thì khả năng sinh web tĩnh cho phép nó đạt hiệu suất vượt trội. Bạn có thể tùy biến đủ kiểu với website của mình và lưu trữ nó trên chính Github - dịch vụ lưu trữ mã nguồn một cách hoàn toàn miễn phí. Một ưu điểm nữa là web tĩnh sẽ cho phép website của bạn miễn nhiễm với các mã độc, sự tấn công của hacker chúng ta thường thấy trên các CMS như WordPress.
 
 ### Tại sao sử dụng Github Pages để lưu trữ website cá nhân
 
-![Github](/files/blogging/jekyll/github.png)
+![Github](/assets/img/blogging/jekyll/github.png)
 
 Github là dịch vụ lưu trữ mà nguồn quen thuộc với các bạn lập trình viên. Github cũng cung cấp dịch vụ Github Pages cho phép bạn lưu trữ các website của dự án, website cá nhân và tổ chức trên chính Github. Ưu điểm của việc sử dụng Github lưu trữ website cá nhân là:
 
@@ -76,7 +76,7 @@ Trước tiên chúng ta hãy tìm một theme (giao diện) cơ bản để b�
 
 Mô tả các bước của tôi khá tổng quát, có thể các bạn chưa hình dung được. Và thêm nữa, trăm nghe không bằng một thấy, trăm đọc không bằng xem thực hành. Tôi xin phép được trích hình ảnh hướng dẫn cài theme Beautiful Jekyll của tác giả Dean Attali để các bạn hình dung được:
 
-![Cài đặt website với theme Beautiful Jekyll](/files/blogging/jekyll/install-steps.gif)
+![Cài đặt website với theme Beautiful Jekyll](/assets/img/blogging/jekyll/install-steps.gif)
 
 **Kinh nghiệm** : Nếu website của bạn build bị lỗi ở chỗ nào đó thì Github sẽ gửi thông báo về email của bạn. Hãy mở nó lên và kiểm tra xem có vấn đề gì xảy ra nhé. Nếu lỗi nằm ở file cấu hình `_config.yml` (được viết bằng ngôn ngữ YAML) thì bạn hãy sử dụng công cụ tại [http://codebeautify.org/yaml-validator](http://codebeautify.org/yaml-validator) - Copy toàn bộ nội dung file `_config.yml` vào đó và kiểm tra lỗi nhé.
 
@@ -117,7 +117,7 @@ date:   2016-09-16
 categories: [Jekyll]
 tags: [Jekyll, website]
 permalink: /blogging/kinh-nghiem-tao-webiste-ca-nhan-voi-jekyll/
-bigimg: "/files/blogging/jekyll/jekyllhomepage.png"
+bigimg: "/assets/img/blogging/jekyll/jekyllhomepage.png"
 ---
 ~~~
 
