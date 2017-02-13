@@ -8,6 +8,7 @@ header:
   overlay_image: "/assets/img/cuoc-song/passion.jpg"
 permalink: /cuoc-song/song-voi-dam-me/
 ---
+#Bài viết này không phải do tôi viết ra, tôi copy nó từ blog của [Việt Anh Dev](https://vietanhdev.com).
 
 Các bạn ạ, đã có rất nhiều bài viết, hội thảo, cuộc nói chuyện của các chuyên gia nổi tiếng xoay quanh chủ đề “*sự đam mê*“. Bạn đã đọc? Bạn đã nghe? Bạn đã thấy? Vậy bạn đã hiểu được bao nhiêu phần trăm về cái mà người ta gọi là đam mê, và về cách đam mê ảnh hưởng, xây dựng và khiến cuộc sống của mỗi con người trở nên có ý nghĩa? Hôm nay Việt Anh thực sự muốn chia sẻ những hiểu biết, những suy nghĩ của bản thân về sự đam mê tới các bạn.
 
